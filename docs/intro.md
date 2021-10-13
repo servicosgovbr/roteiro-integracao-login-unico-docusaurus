@@ -1,35 +1,13 @@
 ---
+sidebar_label: 'Introdução'
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# Introdução
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Orgãos públicos eventualmente solicitam que o cidadão realize **Prova de vida** para renovação de algum benefício. Para a realização da Prova de vida, pode ser utilizada **API de transação**, a qual possibilita que usuários selecionados realizem sua Validação Facial por meio do aplicativo **[Meu gov.br](https://www.gov.br/pt-br/apps/meu-gov.br)** ![Site externo](/img/site-ext.gif).
 
-## Getting Started
+Este documento é o manual para orientar a **integração** via serviço de Prova de vida a qualquer ambiente. Será informado como funcionam as **transações** de Prova de Vida, assim como os **procedimentos** para clientes interessados solicitarem a integração.
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+Este documento também contém as formas de chamadas a transações, parâmetros e métodos de integração.
