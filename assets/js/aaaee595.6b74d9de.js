@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[857],{7256:function(s){s.exports=JSON.parse('{"allTagsPath":"/roteiro-prova-de-vida-docusaurus/blog/tags","slug":"/roteiro-prova-de-vida-docusaurus/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/roteiro-prova-de-vida-docusaurus/blog/tags/docusaurus"}')}}]);
