@@ -7,7 +7,7 @@ slug: /elementos-exemplos
 
 ## Markdown heading
 
-Markdown text with [links](./hello.md)
+Markdown text with
 
 ![Docusaurus logo](/img/docusaurus.png)
 
@@ -50,7 +50,7 @@ Your site starts at `http://localhost:3000`.
 
 Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
 
-Have **5 more minutes**? Take a look at **[versioning](../iniciando-a-integracao/metodos-interfaces-integracao)** and **[i18n](../iniciando-a-integracao/procedimentos-para-integracao)**.
+Have **5 more minutes**? Take a look at **[versioning](/iniciando-a-integracao/metodos-interfaces-integracao)** and **[i18n](/iniciando-a-integracao/procedimentos-para-integracao)**.
 
 ## What's next?
 

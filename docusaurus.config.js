@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'Roteiro integração Prova de Vida',
   tagline: 'Documentação',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://servicosgovbr.github.io',
+  baseUrl: '/roteiro-prova-de-vida-docusaurus/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/faviconGovBr.ico',
@@ -69,8 +69,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Documentação',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Roteiro Integração Prova de Vida',
+                to: '/',
               },
             ],
           }
